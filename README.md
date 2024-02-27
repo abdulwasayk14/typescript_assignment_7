@@ -1,1 +1,1 @@
-# typescript_assignment_7_Favourate_number
+# typescript_assignment_9_Favourate_number
